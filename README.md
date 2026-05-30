@@ -98,7 +98,4 @@ A/B Testing
 KPI Monitoring
 Data Storytelling
 Executive Reporting
-
 Product Analytics
-
-y conecta perfectamente con tu transición profesional desde investigación, comportamiento humano y operaciones hacia analítica de negocio.
