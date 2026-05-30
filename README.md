@@ -49,7 +49,9 @@ Análisis integral del desempeño de RappiPlus, servicio de suscripción del eco
 
 ![Dashboard RappiPlus Overview Ejecutivo](Dashboard%20RappiPlus%20Overview%20Ejecutivo.jpeg)
 
+
 ![Dashboard RappiPlus Detalles](Dashboard%20RappiPlus%20Detalles.jpeg)
+
 
 ## 📈 Principales Resultados
 ✅ Identificación de categorías y segmentos con mayor rentabilidad  
