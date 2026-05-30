@@ -64,6 +64,7 @@ Funnel Analysis
 A/B Testing
 Data Visualization
 Business Analytics
+
 📁 Estructura del Proyecto
 data/
 ├── rappiplus_orders_raw.csv
