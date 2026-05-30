@@ -67,11 +67,9 @@ Data Visualization
 Business Analytics
 📁 Estructura del Proyecto
 data/
-│
 ├── rappiplus_orders_raw.csv
 ├── rappiplus_catalog.csv
 ├── rappiplus_marketing_spend.csv
-
 notebooks/
 ├── 01_data_cleaning.ipynb
 ├── 02_profitability_analysis.ipynb
@@ -82,8 +80,8 @@ notebooks/
 dashboard/
 ├── PowerBI_Dashboard.pbix
 reports/
-
 ├── executive_summary.pdf
+
 🎓 Contexto Académico
 Proyecto Final – TripleTen Data Analyst Bootcamp (2026)
 Proyecto integrador desarrollado para aplicar análisis de datos de extremo a extremo, combinando Python, SQL, estadística, visualización de datos y comunicación ejecutiva para resolver problemas reales de negocio.
