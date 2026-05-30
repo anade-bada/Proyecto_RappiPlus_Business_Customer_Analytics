@@ -1,4 +1,3 @@
-# Proyecto_RappiPlus_de_datos_a_decisiones_negocio
 ##📊 RappiPlus Business & Customer Analytics: Rentabilidad, Retención y Conversión 
 
 📌 Descripción del Proyecto
