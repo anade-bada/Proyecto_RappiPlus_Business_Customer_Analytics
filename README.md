@@ -1,5 +1,6 @@
 # Proyecto_RappiPlus_de_datos_a_decisiones_negocio
-##📊 RappiPlus Business & Customer Analytics: Rentabilidad, Retención y Conversión
+##📊 RappiPlus Business & Customer Analytics: Rentabilidad, Retención y Conversión 
+
 📌 Descripción del Proyecto
 Análisis integral del desempeño de RappiPlus, servicio de suscripción del ecosistema Rappi, para evaluar rentabilidad, comportamiento de usuarios, retención y eficiencia del proceso de compra. El proyecto integró análisis de calidad de datos, KPIs financieros, funnels de conversión, cohortes de retención, experimentación A/B y visualización ejecutiva para generar recomendaciones orientadas al crecimiento y la optimización del negocio.
 
